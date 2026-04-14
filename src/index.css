@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Helvetica Neue', Arial, sans-serif;
+  
+  --color-vibrant-bg: #FFF9F0;
+  --color-vibrant-ink: #2D3436;
+  --color-vibrant-muted: #A4B0BE;
+  --color-vibrant-stat: #2F3542;
+  --color-vibrant-border: #F1F2F6;
+  --color-vibrant-active: #FF4757;
+  --color-vibrant-success: #2ED573;
+  --color-vibrant-instruction: #FF6B6B;
+  --color-vibrant-phase-text: #747D8C;
+  --color-vibrant-phase-border: #CED6E0;
+}
